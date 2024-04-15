@@ -1,4 +1,4 @@
-import { ThemeProvider, useTheme } from './useTheme';
+import { ThemeProvider, useTheme } from '../contexts/useTheme';
 
 export const theme = {
   colors: {
@@ -62,6 +62,7 @@ export const theme = {
     fs400: 'var(--font-size-400)',
     fs500: 'var(--font-size-500)',
     fw100: 'var(--font-weight-100)',
+    fw300: 'var(--font-weight-300)',
     fw400: 'var(--font-weight-400)',
     fw500: 'var(--font-weight-500)',
     fw700: 'var(--font-weight-700)',
