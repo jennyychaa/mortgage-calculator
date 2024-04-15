@@ -1,0 +1,61 @@
+body {
+  /* color definitions */
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-gray-light: #f7f7f7;
+  --color-gray: #6c757d;
+  --color-gray-dark: #343a40;
+  --color-blue: #b0e0e2;
+  --color-purple-light: #e3dfef;
+  --color-purple: #6f42c1;
+  --color-purple-dark: #2e1a47;
+
+  /* typography definitions */
+  --font-size-unit-base: 16px;
+  --font-size-75: calc(var(--font-size-unit-base) * 0.75); /* 12 */
+  --font-size-87: calc(var(--font-size-unit-base) * 0.875); /* 14 */
+  --font-size-100: calc(var(--font-size-unit-base) * 1); /* 16 */
+  --font-size-112: calc(var(--font-size-unit-base) * 1.12); /* 18 */
+  --font-size-125: calc(var(--font-size-unit-base) * 1.25); /* 20 */
+  --font-size-150: calc(var(--font-size-unit-base) * 1.5); /* 24 */
+  --font-size-175: calc(var(--font-size-unit-base) * 1.75); /* 28 */
+  --font-size-200: calc(var(--font-size-unit-base) * 2); /* 32 */
+  --font-size-225: calc(var(--font-size-unit-base) * 2.25); /* 36 */
+  --font-size-300: calc(var(--font-size-unit-base) * 3); /* 48 */
+  --font-size-350: calc(var(--font-size-unit-base) * 3.5); /* 56 */
+  --font-size-400: calc(var(--font-size-unit-base) * 4); /* 64 */
+  --font-size-500: calc(var(--font-size-unit-base) * 5); /* 80 */
+  --font-weight-100: 100;
+  --font-weight-400: 400;
+  --font-weight-500: 500;
+  --font-weight-700: 700;
+}
+
+:root {
+  --content-wrapper-max-width: 667px;
+
+  /* spacing definitions */
+  --gutter-unit-base: 8px;
+  --gutter-50: calc(var(--gutter-unit-base) * 0.5);
+  --gutter-100: calc(var(--gutter-unit-base) * 1);
+  --gutter-150: calc(var(--gutter-unit-base) * 1.5);
+  --gutter-200: calc(var(--gutter-unit-base) * 2);
+  --gutter-300: calc(var(--gutter-unit-base) * 3);
+  --gutter-400: calc(var(--gutter-unit-base) * 4);
+  --gutter-500: calc(var(--gutter-unit-base) * 5);
+  --gutter-600: calc(var(--gutter-unit-base) * 6);
+  --gutter-700: calc(var(--gutter-unit-base) * 7);
+  --gutter-800: calc(var(--gutter-unit-base) * 8);
+  --gutter-900: calc(var(--gutter-unit-base) * 9);
+  --gutter-1000: calc(var(--gutter-unit-base) * 10);
+  --gutter-1100: calc(var(--gutter-unit-base) * 11);
+  --gutter-1200: calc(var(--gutter-unit-base) * 12);
+  --gutter-1300: calc(var(--gutter-unit-base) * 13);
+  --gutter-1400: calc(var(--gutter-unit-base) * 14);
+  --gutter-1500: calc(var(--gutter-unit-base) * 15);
+  --gutter-1600: calc(var(--gutter-unit-base) * 16);
+  --gutter-1700: calc(var(--gutter-unit-base) * 17);
+  --gutter-1800: calc(var(--gutter-unit-base) * 18);
+  --gutter-1900: calc(var(--gutter-unit-base) * 19);
+  --gutter-2000: calc(var(--gutter-unit-base) * 20);
+}
