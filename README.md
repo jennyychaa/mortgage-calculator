@@ -1,9 +1,10 @@
 # Mortgage Calculator
 
-![Screenshot 2024-04-15 at 7 21 32 PM](https://github.com/jennyychaa/mortgage-calculator/assets/16579792/bd11e831-c7d4-4d47-b011-5ed7271f0079)
+<p align="center">
+  <img src="https://github.com/jennyychaa/mortgage-calculator/assets/16579792/bd11e831-c7d4-4d47-b011-5ed7271f0079" alt="A screenshot of the Mortgage Calculator app" />
+</p>  
 
-![Screenshot 2024-04-15 at 7 25 40 PM](https://github.com/jennyychaa/mortgage-calculator/assets/16579792/d164646c-61ac-4811-a094-ed4f56694ef6)
-
+This is a simple mortgage calculator application that takes in a loan amount, interest rate, and loan term to calculate the monthly mortgage payment, total payment amount, and total interest paid.
 
 ## System Requirements
 
