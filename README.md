@@ -1,14 +1,14 @@
 # Mortgage Calculator
 
-<p align="center">
-  <img src="https://github.com/jennyychaa/mortgage-calculator/assets/16579792/bd11e831-c7d4-4d47-b011-5ed7271f0079" alt="A screenshot of the Mortgage Calculator app" />
-</p>  
+This simple mortgage calculator application takes in a loan amount, interest rate, and loan term to calculate the monthly mortgage payment, total payment amount, and total interest paid.
 
-This is a simple mortgage calculator application that takes in a loan amount, interest rate, and loan term to calculate the monthly mortgage payment, total payment amount, and total interest paid.
+[🚀 Live Demo](https://mortgage-calculator-gamma-gold.vercel.app/)
 
-## System Requirements
+## Prerequistes
 
-- Node.js (`^14.0.0`)
+Before getting started, make sure you'll need to install the following on your development machine: 
+
+- [Node.js](https://nodejs.org/)
 
 ## Getting Started
 
